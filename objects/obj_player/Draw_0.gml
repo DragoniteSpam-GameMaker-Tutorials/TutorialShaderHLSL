@@ -1,4 +1,5 @@
-shader_set(shd_passthrough_glsles);
+show_debug_message(shader_is_compiled(shd_passthrough_hlsl));
+shader_set(shd_passthrough_hlsl);
 
 if (casting_frame == 0) {
     sprite_index = running ? spr_duckling_run : spr_duckling;
