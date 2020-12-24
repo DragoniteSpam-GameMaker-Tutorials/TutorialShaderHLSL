@@ -8,7 +8,7 @@
     {"id":{"name":"par_thingy","path":"objects/par_thingy/par_thingy.yy",},"order":4,},
     {"id":{"name":"spr_duckling_cast","path":"sprites/spr_duckling_cast/spr_duckling_cast.yy",},"order":3,},
     {"id":{"name":"obj_flower_rafflesia","path":"objects/obj_flower_rafflesia/obj_flower_rafflesia.yy",},"order":1,},
-    {"id":{"name":"Shader1","path":"shaders/Shader1/Shader1.yy",},"order":42,},
+    {"id":{"name":"shd_passthrough_glsles","path":"shaders/shd_passthrough_glsles/shd_passthrough_glsles.yy",},"order":42,},
     {"id":{"name":"spr_flower_lily","path":"sprites/spr_flower_lily/spr_flower_lily.yy",},"order":5,},
     {"id":{"name":"spr_flower_rafflesia","path":"sprites/spr_flower_rafflesia/spr_flower_rafflesia.yy",},"order":7,},
     {"id":{"name":"bgm_idle_with_accordions","path":"sounds/bgm_idle_with_accordions/bgm_idle_with_accordions.yy",},"order":40,},
